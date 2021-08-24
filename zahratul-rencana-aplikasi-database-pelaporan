@@ -4,7 +4,7 @@ rencana aplikasi database pelaporan perkara di kantor polisi menggunakan java
     +pelapor
     +pasal
     +perkara
-- melengkapi atribut aetiap tabel database
+- melengkapi atribut setiap tabel database
     +pelaku
         -id_pelaku
         -nama_pelaku
@@ -35,7 +35,8 @@ rencana aplikasi database pelaporan perkara di kantor polisi menggunakan java
         -id_pelaku
         -nama_pelaku
         -no_pasal
-        -tanggal_kejadian  
+        -tanggal_kejadian 
+- membuat database di MySQL
 - membuat form pelaku 
 - membuat form pelapor 
 - membuat form pasal 
