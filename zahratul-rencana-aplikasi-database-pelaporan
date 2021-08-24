@@ -4,10 +4,42 @@ rencana aplikasi database pelaporan perkara di kantor polisi menggunakan java
     +pelapor
     +pasal
     +perkara
-- membuat form pelaku
-- membuat form pelapor
-- membuat form pasal
+- melengkapi atribut aetiap tabel database
+    +pelaku
+        -id_pelaku
+        -nama_pelaku
+        -tempat_lahir
+        -tanggal_lahir
+        -jenis_kelamin
+        -umur
+        -agama
+        -alamat
+    +pelapor
+         -id_pelapor
+        -nama_pelapor
+        -tempat_lahir
+        -tanggal_lahir
+        -jenis_kelamin
+        -umur
+        -agama
+        -alamat
+    +pasal
+        -no_pasal
+        -tindak_pidana
+        -keterangan
+    +perkara
+        -kode_perkara
+        -nama_perkara
+        -id_pelapor
+        -nama_pelapor
+        -id_pelaku
+        -nama_pelaku
+        -no_pasal
+        -tanggal_kejadian  
+- membuat form pelaku 
+- membuat form pelapor 
+- membuat form pasal 
 - membuat form perkara
-- membuat form menuutama
+- membuat form menu_utama 
 
     
