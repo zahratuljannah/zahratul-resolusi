@@ -38,9 +38,14 @@ rencana aplikasi database pelaporan perkara di kantor polisi menggunakan java
         -tanggal_kejadian 
 - membuat database di MySQL
 - membuat form pelaku 
+    +framework tabel pelaku
 - membuat form pelapor 
+    +framework tabel pelapor
 - membuat form pasal 
+    +framework tabel pasal
 - membuat form perkara
+    +framework tabel perkara
 - membuat form menu_utama 
+- membuat form cetak laporan
 
     
